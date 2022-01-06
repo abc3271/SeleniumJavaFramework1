@@ -1,0 +1,27 @@
+2022-01-01 12:17:58.421 INFO [main] [demo.Log4jDemo.main(Log4jDemo.java:14)] - This is information message
+2022-01-01 12:17:58.424 ERROR [main] [demo.Log4jDemo.main(Log4jDemo.java:15)] - This is an error message
+2022-01-01 12:17:58.424 WARN [main] [demo.Log4jDemo.main(Log4jDemo.java:16)] - Warning
+2022-01-01 12:17:58.424 FATAL [main] [demo.Log4jDemo.main(Log4jDemo.java:17)] - Fatal Error
+2022-01-01 12:22:20.982 INFO [main] [demo.Log4jDemo.main(Log4jDemo.java:14)] - This is information message
+2022-01-01 12:22:20.984 ERROR [main] [demo.Log4jDemo.main(Log4jDemo.java:15)] - This is an error message
+2022-01-01 12:22:20.984 WARN [main] [demo.Log4jDemo.main(Log4jDemo.java:16)] - Warning
+2022-01-01 12:22:20.985 FATAL [main] [demo.Log4jDemo.main(Log4jDemo.java:17)] - Fatal Error
+2022-01-01 12:23:25.964 TRACE [main] [demo.Log4jDemo.main(Log4jDemo.java:14)] - Trace message here
+2022-01-01 12:23:25.966 INFO [main] [demo.Log4jDemo.main(Log4jDemo.java:15)] - This is information message
+2022-01-01 12:23:25.967 ERROR [main] [demo.Log4jDemo.main(Log4jDemo.java:16)] - This is an error message
+2022-01-01 12:23:25.967 WARN [main] [demo.Log4jDemo.main(Log4jDemo.java:17)] - Warning
+2022-01-01 12:23:25.967 FATAL [main] [demo.Log4jDemo.main(Log4jDemo.java:18)] - Fatal Error
+2022-01-01 12:23:44.144 INFO [main] [demo.Log4jDemo.main(Log4jDemo.java:15)] - This is information message
+2022-01-01 12:23:44.147 ERROR [main] [demo.Log4jDemo.main(Log4jDemo.java:16)] - This is an error message
+2022-01-01 12:23:44.147 WARN [main] [demo.Log4jDemo.main(Log4jDemo.java:17)] - Warning
+2022-01-01 12:23:44.148 FATAL [main] [demo.Log4jDemo.main(Log4jDemo.java:18)] - Fatal Error
+2022-01-01 12:24:04.616 TRACE [main] [demo.Log4jDemo.main(Log4jDemo.java:14)] - Trace message here
+2022-01-01 12:24:04.619 INFO [main] [demo.Log4jDemo.main(Log4jDemo.java:15)] - This is information message
+2022-01-01 12:24:04.619 ERROR [main] [demo.Log4jDemo.main(Log4jDemo.java:16)] - This is an error message
+2022-01-01 12:24:04.619 WARN [main] [demo.Log4jDemo.main(Log4jDemo.java:17)] - Warning
+2022-01-01 12:24:04.619 FATAL [main] [demo.Log4jDemo.main(Log4jDemo.java:18)] - Fatal Error
+2022-01-01 12:45:15.791 TRACE [main] [demo.Log4jDemo.main(Log4jDemo.java:14)] - Trace message here
+2022-01-01 12:45:15.793 INFO [main] [demo.Log4jDemo.main(Log4jDemo.java:15)] - This is information message
+2022-01-01 12:45:15.793 ERROR [main] [demo.Log4jDemo.main(Log4jDemo.java:16)] - This is an error message
+2022-01-01 12:45:15.794 WARN [main] [demo.Log4jDemo.main(Log4jDemo.java:17)] - Warning
+2022-01-01 12:45:15.794 FATAL [main] [demo.Log4jDemo.main(Log4jDemo.java:18)] - Fatal Error
